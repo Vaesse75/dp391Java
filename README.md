@@ -1,5 +1,5 @@
 dp391Java
-# Reddit Daily Programmer #391
+# Reddit's /rDailyProgrammer #391
 https://www.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/
 
 ## Background
